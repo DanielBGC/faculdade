@@ -1,0 +1,10 @@
+Faça um programa em JAVA (versão 8) que contenha um menu infinito para a classe Pessoa. 
+Uma Pessoa deve ter nome, peso e idade e métodos.
+Na opção 1 deverá ser criado um objeto a partir de leitura de dados do teclado (classe Scanner), 
+caso o objeto já exista, exiba o carro existentes.
+Na opção 2 deverá ser possível excluir uma pessoa cadastrado na opção 1.
+Na opção 3 será possível que a pessoa diga olá.
+Na opção 4 será possível calcular quantos anos a pessoa terá em 2019 (sabendo que ela ainda não 
+fez aniversário).
+Na opção 5 exibirá "magrinho(a) se tiver menos de 60 kg" ou "gordinha(a) se tiver mais de 60kg".
+Na opção 0 o programa é encerrado

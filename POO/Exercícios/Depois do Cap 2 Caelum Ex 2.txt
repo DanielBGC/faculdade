@@ -1,0 +1,13 @@
+exercício da página 46 e 47 da apostila
+-criar a classe conta
+-criar a classe cliente
+-adicionar saca e deposita na classe conta
+-criar a classe de teste
+-criar duas contas e dois clientes
+-popular todas as  variáveis dos 4 objetos
+-testar o saca e deposita das duas contas
+-testar se o dono da conta 1 é o mesmo dono da conta 2
+Teste a classe Conta com 
+Cliente titular;
+ou
+Cliente titular = new Cliente();

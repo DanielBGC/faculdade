@@ -1,0 +1,10 @@
+1 - Criar a classe conta (na mão)
+2 - Criar a classe cliente também.
+3 - Deixe TODOS os atributos sem modificador de visibilidade de conta (sem métodos) e imprima TODOS em outra classe.
+4 - Deixe TODOS os atributos com modificador de visibilidade private  (sem métodos) e imprima TODOS em outra classe.
+5 - Deixe todos os atributos com modificador de visibilidade public  (sem métodos) e imprima TODOS em outra classe.
+6 - Proteger o domínio de acesso externo não autorizado
+7 - Encapsular os campos
+8 - Criar 2 contas (preenchendo TODOS os dados) e testar a impressão com "toString".
+9 - Criar novas 5 contas (preenchendo TODOS os dados) utilizando 5 construtores diferentes.
+10 - Testar a impressão de TUDO (toString)

@@ -1,0 +1,6 @@
+EXERCÍCIO 3
+1 - Crie uma classe pessoa que contenha os atributos nome e mensagens recebidas.
+2 - Envie 5 mensagens (1 por vez) do "JOÃO" para "MARIA".
+3 - Exiba as mensagens recebidas pela "MARIA".
+(utiliza os conceitos do método transfere)
+

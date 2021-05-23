@@ -1,0 +1,46 @@
+1 - Crie um arquivo para leitura chamado leitura.txt em uma pasta anterior a raiz da JVM.
+2 - Crie um arquivo de escrita chamado relatorio.txt em uma pasta chamada "pasta" dentro da raiz da JVM.
+3 - Coloque diversos pagamentos no seu arquivo de leitura.
+Ex:
+	1 Joao 245.27 12/03/2017
+	2 Joao 145.77 12/03/2017
+	3 Maria 205.98 13/03/2017
+	4 Maria 25.15 13/03/2017
+	5 Camila 2450.87 12/03/2017
+	6 Camila 245.02 15/03/2017
+	7 Camila 945.7 13/03/2017
+	8 Claudia 247.2 16/03/2017
+	9 Claudia 245.35 16/03/2017
+	10 Claudia 234.98 12/03/2017
+	11 Joao 875.67 15/03/2017
+	12 Joao 2.34 15/03/2017
+	13 Joao 24.98 16/03/2017
+	14 Maria i23 16/03/2017
+	15 Claudia 90.67 1S/03/2017
+4 - Leia o arquivo de leitura em uma única vez e armazene todos os pagamentos em uma classe Pagamento (long, String, BigDecimal, LocalDate)
+5 - Imprima o relatório de vendas da seguinte forma.
+	Ex:
+	RELATÓRIO DE VENDAS
+	O valor de pagamentos registrados no arquivo é: X
+	A pessoa que pagou o maior valor foi: X
+
+	O valor total de pagamentos agrupado por pessoa é:
+	PESSOA1 VALOR_TOTAL_1
+	PESSOA2 VALOR_TOTAL_2
+	...
+	...
+	O valor total de pagamentos agrupado por dia é:
+	DIA1	VALOR_TOTAL_1
+	DIA2    VALOR_TOTAL_1
+	...
+	...
+OBS1: ordene o valor total de pagamentos por pessoa pelo nome da pessoa (ordem crescente);
+OBS2: ordene o total de pagamentos por dia pelo valor total de pagamentos (ordem crescente);
+6 - Trate o caso onde o PARSER para valores financeiros lê um valor incoerente e gera uma exceção.
+	Ex.: valor lido = I45.27 -> valor corrigido = 90.80
+7 - Trate o caso onde o PARSER para datas lê um valor incoerente e gera uma exceção.
+	Ex.: valor lido = 12-11/98 -> valor corrigido = 14/03/2017
+	
+CLASSES E MÉTODOS INTERESSANTES A SEREM USADOS
+List, ArrayList,Pagamento, método split da String,Map para agrupamento, Comparator como critério de ordenação,
+try-catch para se recuperar do erro

@@ -1,0 +1,5 @@
+EXERCÍCIO 1:
+1 Crie um Campeonato (nome, ano)
+2 Adicione dois Times (nome, vitórias, derrotas, empates) ao campeonato.
+3 Set os dados do time
+4 Calcule a pontuação, o campeão do campeonato e mostre o nome do time

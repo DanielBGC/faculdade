@@ -1,0 +1,18 @@
+SALA DE AULA INVERTIDA
+https://www.youtube.com/watch?v=dolYnzf92pc&list=PLcxA6SshISoYvQjNeznlYjK8Y9LxNDqFG
+O que farão ?
+Assistir as videoaulas
+	- videoaula 1, videoaula 2 tem pouco conteúdo novo
+	- videoaula 3, videoaula 4, videoaula 5, videoaula 7 bastante conteúdo novo
+	- videoaula 6 banco
+Avaliação ?
+`		Às 9h30min, dois alunos serão sorteados.
+	1 aluno escreverá um resumo, passo a passo para construir a tela.
+	1 aluno explicará em voz alta como fazer a tela.
+Pontuação ?
+	Se o aluno atender o objetivo, ele ganhará 3 pontos adicionais a sua participação merecida.
+	Ex.: Original: 6 Novo: 9 | Original: 8 Novo: 10
+Suporte:
+	24CRUD2BeansBinding(JLBB)
+	25CRUD2BeansBindingJava8
+	26CRUD2BeansBindingJava7

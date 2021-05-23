@@ -1,0 +1,9 @@
+EXERCÍCIO 2
+1- Adicione um tanque de combustível (volume em l)
+2 - Percorra uma determinada distância (em passos) e 
+consuma o combustível.
+3 - Quando acabar a gasolina, faça um empréstimo de 10 litros
+com o carro vizinho na rodovia.
+
+
+UTILIZE OS CONCEITOS DE ENCAPSULAMENTO, OCULTAMENTO DA INFORMAÇÃO, TROCA DE MENSAGENS E REFAÇA O EXERCÍCIO.

@@ -1,0 +1,15 @@
+Faça um programa com um loop infinito.
+ERP do IFTM
+1 - Configurar os dados da empresa (nome fantasia, cnpj, ramo,...)
+(caso os dados já estejam configurados exiba-os)
+2 - Adicionar um funcionário a empresa (nome, nascimento, sexo, ..).
+3 - Verificar se um dado funcionário existe na empresa.
+4 - Mostrar todos os funcionários cadastros por um método
+5 - Remover um funcionário específico da empresa
+6 - Sair
+OBS.: 
+1 - Utilize a classe Empresa e a classe Funcionário com seus respectivos métodos.
+2 - Utilize arrays
+3 - Utilize toString
+4 - Trate o array cheio
+5 - Buscar funcionário por "nome" e remover funcionário por "nome"

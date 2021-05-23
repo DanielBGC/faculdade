@@ -1,0 +1,39 @@
+Exercício
+======================================================
+08/2019
+Faça um programa infinito em java que contenha um menu de opções.
+SEJA BEM VINDO AO PROGRAMA.
+ESCOLHA SUA OPÇÃO:
+1 - Criar uma Pessoa (nome, salario e nascimento)
+2 - Exibir a Pessoa
+3 - Destruir a Pessoa
+4 - Criar um Paciente (nome, peso, altura)
+5 - Exibir o Paciente
+6 - Exibe o IMC do Paciente (peso /altura^2)
+7 - Destruir o Paciente
+8 - Exibe a idade que a Pessoa fará em 2020
+	(c/ sua data de nascimento)(10/01/1990)
+9 - Sair
+
+Pessoa = nome, salario e nascimento
+Paciente = nome, altura e peso
+
+OBS1: faça 1 versão c/ Scanner e 1 versão c/ JOPtionPane
+OBS2: não deixe erros nas opções 2, 5, 6 e 8
+
+
+======================================================
+12/2018
+Faça um programa infinito em java que contenha um menu de opções.
+
+SEJA BEM VINDO AO PROGRAMA.
+ESCOLHA SUA OPÇÃO:
+1 - Mostrar os dados da Pessoa (nome, salario e nascimento) (cria caso não exista e exiba caso exista)
+2 - Exibe o IMC do Paciente (peso /altura^2) (cria caso não exista e exiba caso exista)
+3 - Exibe a idade que a Pessoa fará em 2018
+	(c/ sua data de nascimento)(10/01/1990)
+4 - Sair
+Pessoa = nome, salario e nascimento
+Paciente = altura e peso
+
+Faça 2 versões: Scanner e JOPtionPane

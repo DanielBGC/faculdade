@@ -1,0 +1,11 @@
+Faça um programa em JAVA (versão 8) que contenha um menu infinito para a classe Carro. 
+Um Carro deve ter modelo, ano, cor, velocidade, estado que marca ligado e desligado e 
+métodos para ligar, desligar, mostrar o carro e mostrar o valor do aluguel do carro.
+Na opção 1 deverá ser criado um objeto a partir de leitura de dados do teclado 
+(classe Scanner), caso o objeto já exista, exiba o carro existentes.
+Na opção 2 deverá ser possível excluir um carro cadastrado na opção 1.
+Na opção 3 será possível ligar o carro.
+Na opção 3 será possível desligar o carro.
+Na opção 4 será possível calcular o valor do aluguel de acordo com a quantidade de dias que queira alugar o carro.
+para até 4 dias é 100, entre 5 e 7 dias 150 e para mais de 7 dias 1000 reais.
+Na opção 0 o programa é encerrado

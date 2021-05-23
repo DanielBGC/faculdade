@@ -1,0 +1,14 @@
+EXERCÍCIO
+RESUMO: Criar um DAO em memória utilizando coleções, fazer um menu com loop infinito e testes na classe aluno.
+1 - Aluno.java 		 //atributos: id, nome e nota
+2 - AlunoDAORAM.java //métodos: adicionar, buscarTodos, buscarAlunosNotaMaior(parametro), alterar e excluir
+3 - Teste.java //menu com com loop infinito
+4 - Após sair do loop infinito, ordene a coleção pelas notas.
+	
+	
+Repare no encapsulamento, poderia usar 
+	dao em array, 
+	dao em lista, 
+	dao no mysql,
+	dao no oracle
+	e o resultado seria o mesmo

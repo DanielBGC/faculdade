@@ -1,0 +1,20 @@
+1 - O exercício é inspirado no diagrama de classes da página 120 Caelum FJ11 Java
+2 - Criar a classe Funcionario abstrata com o método getBonificacao abstrato. Coloque nome, cpf e salario em funcionario e faça as outras boas práticas de OO.
+3 - Criar a classe Presidente que herda de funcionario. A sua bonificacao e de 50%.
+4 - Criar a classe Gerente que herda de Funcionario. A sua bonificacao e de 20%.
+5 - Criar a classe Diretor que herda de Gerente. Serão classes "iguais" no conteúdo.
+6 - Criar a classe Secretaria abstrata com o método somaHorasBilingue abstrato. Secretaria herda de funcionario. Adicione a variavel horasBilingue também.
+7 - Criar a classe SecretariaAdministrativa que herda de Secretaria. Implemente os métodos abstratos.
+8 - Criar a classe SecretariaAgencia que herda de Secretaria. Implemente os métodos abstratos.
+9 - Crie a classe ControleDeBonificacoes para registrar e adicionar as bonificacoes dos funcionarios.
+10 - Crie a classe ControleBilingue para registrar e adicionar os valores gastos com horas bilingue.
+11 - Em uma classe de teste:
+11.1 - Instancie todos os objetos.
+11.2 - Registre o controle de bonificações para todas as classes possíveis.
+11.3 - Registre o controle de horas bilingue para todas as classes possíveis.
+11.4 - Imprima os dados das classes. 
+11.5 - Mostre os valores parciais gastos com salários, horas bilingue e bonificacoes.
+11.6 - Mostre o valor total gasto.
+
+
+	

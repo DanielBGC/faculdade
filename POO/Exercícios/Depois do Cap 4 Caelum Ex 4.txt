@@ -1,0 +1,5 @@
+EXERCÍCIO 4
+1 - Crie uma fábrica de 2 computadores
+2 - Ligue os computadores
+3 - Troque mensagens com os computadores armazenando as mensagens enviadas por cada computador.
+4 - Quando o usuário apertar 0 pare de trocar e mensagens e imprima as mensagens recebidas por cada computador

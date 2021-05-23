@@ -1,0 +1,15 @@
+    /*
+    EXERCÍCIO:
+    1 - Criar uma lista/conjunto de pessoas;
+    2 - Criar 6 pessoas com nomes diferentes (obedecendo boas práticas de programação);
+    OBS1: obedeça boas práticas de orientação a objetos.
+    OBS2: insira os seguintes nomes: aline, mariana, priscila, mayla, patricia e camila
+    3 - Adicionar 3 pessoas a lista/conjunto de pessoas (adicione apenas a aline, mariana e priscila);
+    4 - Para cada atividade a seguir imprima a lista/conjunto antes e a lista/conjunto depois de realizar a atividade.
+    OBS1: utilize toString
+    5 - Atividade 1: faça um for melhorado, encontre a mariana e troque seu nome para mariana_transgenica;
+    6 - Atividade 2: faça um for melhorado, encontre a aline e a remova da lista/conjunto;
+    7 - Atividade 3: faça um for contador, encontre a priscila e a remova da lista/conjunto
+    8 - Adicione as 3 pessoas restantes: mayla, patrica e camila e refaça o teste.
+    9 - Utilize o iterator (com for ou while) e refaça o teste.
+    */

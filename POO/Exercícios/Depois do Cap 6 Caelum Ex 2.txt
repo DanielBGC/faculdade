@@ -1,0 +1,20 @@
+1 - Crie um id na conta
+2 - Este id deve ser incrementado automaticamente a cada vez que uma nova 
+conta for criada.
+3 - Execute os exemplos a seguir para garantir que o código está correto.
+
+//método getId não está static, mas pode ser colocado
+Conta c1 = new Conta();
+System.out.println(c1.getId());
+//resultado: 1
+
+Conta c2 = new Conta();
+System.out.println(c2.getId());
+//resultado: 2
+
+Conta c3 = new Conta();
+System.out.println(c3.getId());
+//resultado: 3
+
+System.out.println(c1.getId());
+//resultado: 1

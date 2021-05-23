@@ -1,0 +1,10 @@
+EXERCÍCIO 5.8 APOSTILA CAELUM..PÁGINA 66
+
+Faça um programa com um loop infinito.
+ERP do IFTM
+
+• Programa:
+Classe: Casa Atributos: cor, totalDePortas, portas[] Métodos: void pinta(String s), int quantasPortasEstaoAbertas(), void adicionaPorta(Porta p), int totalDePortas()
+Crie uma casa, pinte-a. Crie três portas e coloque-as na casa através do método adicionaPorta, abra e
+feche-as como desejar. Utilize o método quantasPortasEstaoAbertas para imprimir o número de portas
+abertas e o método totalDePortas para imprimir o total de portas em sua casa.
