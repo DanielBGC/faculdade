@@ -1,6 +1,6 @@
-![GitHub language count](https://img.shields.io/github/languages/count/danielbgc/faculdade)
+![GitHub language count](https://img.shields.io/github/languages/count/DanielBGC/faculdade)
 
-![GitHub top language](https://img.shields.io/github/languages/top/danielbgc/faculdade)
+![GitHub top language](https://img.shields.io/github/languages/top/DanielBGC/faculdade)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/danielbgc/faculdade)
+![GitHub repo size](https://img.shields.io/github/repo-size/DanielBGC/faculdade)
 
