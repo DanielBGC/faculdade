@@ -4,3 +4,8 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DanielBGC/faculdade)
 
+![GitHub files count](https://img.shields.io/github/directory-file-count/DanielBGC/faculdade)
+
+![GitHub commit date](https://img.shields.io/github/last-commit/DanielBGC/faculdade)
+
+
