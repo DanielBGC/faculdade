@@ -1,0 +1,16 @@
+RELATÓRIO DE VENDAS
+O valor de pagamentos registrados no arquivo é: 6075.75
+A pessoa que pagou o maior valor foi: Joao
+
+O valor total de pagamentos agrupado por pessoa é:
+Joao	1294.03
+Camila	3641.59
+Claudia	818.20
+Maria	321.93
+
+O valor total de pagamentos agrupado por dia é:
+12/03/2017	3076.89
+16/03/2017	608.33
+15/03/2017	1123.03
+14/03/2017	90.67
+13/03/2017	1176.83
