@@ -1,4 +1,6 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielBGC)](https://github.com/DanielBGC/github-readme-stats)
+![GitHub language count](https://img.shields.io/github/languages/count/danielbgc/faculdade)
 
+![GitHub top language](https://img.shields.io/github/languages/top/danielbgc/faculdade)
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub repo size](https://img.shields.io/github/repo-size/danielbgc/faculdade)
+
